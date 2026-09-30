@@ -2,7 +2,7 @@
 
 A pixel-focused implementation of the **ByteSpace New** Figma design, built with **Next.js (App Router)**, **TypeScript** and **Tailwind CSS v4**.
 
-**Live demo:** _add your Vercel URL here_
+**Live demo:** https://bytespace-new-ochre.vercel.app
 
 ## Pages
 
